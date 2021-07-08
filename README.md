@@ -4,6 +4,8 @@ For drawing a mobile app UI on your reMarkable tablet. I was searching for a way
 
 ![My reMarkable template in action](doc/example.jpg)
 
+_The Sketchize wireframing sheet is licensed under the [SIL OFL 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)_
+
 ## How to install
 
 Follow this guide on the [reMarkableWiki](https://remarkablewiki.com/tips/templates): <https://remarkablewiki.com/tips/templates>
