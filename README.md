@@ -10,7 +10,7 @@ Follow this guide on the [reMarkableWiki](https://remarkablewiki.com/tips/templa
 
 Or, in short:
 
-- Copy the `phone.png` and `phone.svg` files (from the **templates** folder of this repo) to your reMarkable in the `/usr/share/remarkable/templates/` folder.
+- Copy the `phone.png` and `phone.svg` files (from the **[templates](/tree/main/templates)** folder of this repo) to your reMarkable in the `/usr/share/remarkable/templates/` folder.
 - Add this piece of json to your `templates.json` file:
 
 ```json
